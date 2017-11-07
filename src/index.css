@@ -1,0 +1,10 @@
+* {
+  font-family: sans-serif;
+}
+
+.root-div {
+  font-family: 'sans-serif';
+  border: '1px solid red';
+  padding: '0.5em';
+  width: '300px';
+}
